@@ -15,6 +15,7 @@
 		D5CBC8D827AAAED7006CAC4B /* SortingAlgorithmsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SortingAlgorithmsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5CBC8DB27AAAED7006CAC4B /* SortingAlgorithmsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortingAlgorithmsTests.swift; sourceTree = "<group>"; };
 		D5CBC8E027AAAF00006CAC4B /* SortingAlgorithms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortingAlgorithms.swift; sourceTree = "<group>"; };
+		D5CBC8E227AAB0AF006CAC4B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +32,7 @@
 		D5CBC8CD27AAAEC2006CAC4B = {
 			isa = PBXGroup;
 			children = (
+				D5CBC8E227AAB0AF006CAC4B /* README.md */,
 				D5CBC8E027AAAF00006CAC4B /* SortingAlgorithms.swift */,
 				D5CBC8DA27AAAED7006CAC4B /* SortingAlgorithmsTests */,
 				D5CBC8D927AAAED7006CAC4B /* Products */,
